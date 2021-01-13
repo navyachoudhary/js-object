@@ -1,5 +1,5 @@
 function Person() {
-    this.name = 'John',
+    this.name = 'Navya',
     this.age = 20,
     this.hobbies = ['reading', 'games', 'coding'],
     this.greet = function() {
