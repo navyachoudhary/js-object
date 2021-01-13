@@ -1,5 +1,5 @@
 const person = new Object ( { 
-    name: 'John',
+    name: 'Navya',
     age: 20,
     hobbies: ['reading', 'games', 'coding'],
     greet: function() {
