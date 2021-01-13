@@ -1,4 +1,4 @@
-const name = 'Jack';
+const name = 'Navya';
 const greet = true;
 
 function tagExample(strings, nameValue) {
